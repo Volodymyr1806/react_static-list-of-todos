@@ -1,0 +1,2 @@
+.todo_info{display:flex;flex-direction:column;align-items:center}.todo_info__completed{color:#00f;padding:10px}.shortInfoOfUser{display:flex;font-size:20px;padding:20px}.shortInfoOfUser__name{color:#444;padding-right:10px}.shortInfoOfUser__email{color:#0ba;font-style:italic}.shortInfoOfUser__email:hover{color:#777}.data{list-style-type:none}.data__dataOfUser{width:50%;border:1px solid #000;background-color:#ffc;margin-bottom:5px}
+/*# sourceMappingURL=main.163cfe9b.chunk.css.map */
